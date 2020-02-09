@@ -1,4 +1,4 @@
-# intro-to-embedded-systems
+# ECE306
 
 this is all the code required to make a two wheeled robot that you can control via wifi
 it can also be sent into an autonomous mode where it follows a black line on the floor
